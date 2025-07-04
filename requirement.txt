@@ -1,0 +1,10 @@
+pywinauto
+pyqt5
+numpy==1.21.6
+wheel
+cython
+pandas==1.3.5
+requests
+pypiwin32
+pyinstaller
+urllib3

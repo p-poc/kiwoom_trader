@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>resource/icon/package-box_black.png</file>
+    <file>resource/icon/package-box_white.png</file>
+    <file>resource/icon/activity-feed-64.ico</file>
+    <file>resource/icon/check-mark-64.ico</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+{
+    "ACCOUNT_NUM": "8101216911",
+    "SLACK_WEBHOOK_URL": "",
+    "BUDGET_PER_STOCK": 500000,
+    "LOSS_CUTOFF": -6.0,
+    "GAIN_CUTOFF": 6.0,
+    "condition": "테스트1"
+}
